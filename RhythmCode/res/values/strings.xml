@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RhythmCode</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="loading">正在加载声音和图片资源，请稍等....</string>
+    <string name="title_activity_log">LogActivity</string>
+    <string name="comeBack">返回</string>
+
+</resources>
